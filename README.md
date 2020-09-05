@@ -1,3 +1,3 @@
 # 
 
-<img src="https://i.ibb.co/bKp8Fw5/welcome.gif" />
+<img src="assets/images/welcome.gif" />
