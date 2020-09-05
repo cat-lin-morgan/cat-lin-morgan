@@ -5,7 +5,7 @@ ___
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/><br/>
-Los Angeles - Baby Developer Learning Full Stack Development with Trilogy
+:space_invader:	 Los Angeles - Baby Developer :smiling_imp: Learning Full Stack Development with Trilogy :grapes:	
 <br/><br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact" height="195" />
 </p>
