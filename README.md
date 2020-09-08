@@ -10,7 +10,7 @@ ___
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&&theme=cobalt" height="195" width="350" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact&theme=cobalt" height="205" width="350" /> -->
 <!-- <br/><br/> -->
-When I'm not writing code I'm either watching anime, getting dressed up, listening to music, or bartending~
+When I'm not writing code I'm either watching anime, getting dressed up, playing video games, listening to music, or bartending~
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 </p>
