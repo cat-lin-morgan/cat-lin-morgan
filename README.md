@@ -12,9 +12,11 @@ ___
 <!-- <br/><br/> -->
 When I'm not writing code I'm either watching anime, getting dressed up, playing video games, listening to music, or bartending~
 <br/><br/>
+Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment, and Bootstrap. <br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
+<br/>
   
-Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment, and Bootstrap.
+
 </p>
 
 ___
