@@ -13,7 +13,7 @@ ___
 When I'm not writing code I'm either watching anime, getting dressed up, playing video games, listening to music, or bartending~
 <br/><br/>
 Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment, and Bootstrap. Recently exploring Sass.<br/>
-Profiecent in Abobe Photoshop, experienced in photomanipultion and art direction. <br/>
+Proficient in Abobe Photoshop, experienced in photomanipultion and art direction. <br/>
 Educational background in the Fine Arts.
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
