@@ -1,10 +1,4 @@
-___
-<style>
-.img-wrapper {
-  shape-outside: circle(50%);
-}
-</style>
-</head>
+
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcome.gif" alt="Hopefully working welcome banner"/>
 <br/><br/>
