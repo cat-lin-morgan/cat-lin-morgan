@@ -15,11 +15,11 @@ When I'm not writing code I'm either watching anime, getting dressed up, playing
 Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment, and Bootstrap. Recently exploring Sass.<br/>
 Proficient in Abobe Photoshop, experienced in photomanipultion and art direction. <br/>
 Educational background in the Fine Arts.
-<br/><br/>
+<br/>
+<img src="" alt="This is the bottom banner and portrait of Cat">
+<br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/>
-  
-
 </p>
 
 ___
