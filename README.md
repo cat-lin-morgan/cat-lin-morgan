@@ -1,5 +1,10 @@
 ___
-
+<style>
+.img-wrapper {
+  shape-outside: circle(50%);
+}
+</style>
+</head>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcome.gif" alt="Hopefully working welcome banner"/>
 <br/><br/>
@@ -16,8 +21,10 @@ Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment
 Proficient in Abobe Photoshop, experienced in photomanipultion and art direction. <br/>
 Educational background in the Fine Arts.
 <br/>
-<img src="" alt="This is the bottom banner and portrait of Cat">
-<br/>
+<div class="img-wrapper">
+  <img src="" alt="This is the bottom banner and portrait of Cat">
+</div>
+<br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/>
 </p>
