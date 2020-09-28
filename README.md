@@ -1,6 +1,7 @@
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/catheadbottombanner.gif" alt="This is the bottom banner and portrait of Cat">
+<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcomebanner2.gif" alt="Welcome banner"/>
+
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/><br/>
@@ -12,7 +13,7 @@ Currently writing in HTML, CSS, Javascript, and libraries such as JQuery, Moment
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/><br/>
-<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcomebanner2.gif" alt="Welcome banner"/>
+<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/catheadbottombanner.gif" alt="This is the bottom banner and portrait of Cat">
 <br/><br/>
 </p>
 
