@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/catheadbottombanner.gif" alt="This is the bottom banner and portrait of Cat">
+<img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/catheadbottombanner.gif" alt="This is the top banner and portrait of Cat.">
 <br/><br/>
 🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 <br/><br/>
