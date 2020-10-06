@@ -12,7 +12,7 @@
   <summary>Developer Skillsets</summary>
   <p>Languages I write in:<br />
   HTML, CSS, and Javascript.
-  <br/><br/><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact'/><br/><br/>
+  <br/><br/><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact&theme=highcontrast'/><br/><br/>
   Experienced with libraries, frameworks, and runtime environments such as:<br/>
   jQuery, Moment, Node.js, Bootstrap, Materlize, JSON.
   </p>
