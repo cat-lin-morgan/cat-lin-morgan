@@ -6,7 +6,7 @@
   <br/><br/>
   Los Angeles - Baby Developer - Learning Full Stack Development with Trilogy
 </p>
-<br/><br/>
+<br/>
 <!-- develping in -->
 <details align="center">
   <summary>Developer Skillsets</summary>
@@ -17,7 +17,7 @@
   jQuery, Moment, Node.js, Bootstrap, Materlize, JSON.
   </p>
 </details>
-<br/><br/>
+<br/>
 <p align="center">
   🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
   <br/><br/>
