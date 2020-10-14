@@ -14,20 +14,10 @@
   Hi! My name is Cat!<br/>
   I'm a 26 year old coder, designer, and animator.<br />
   I really like coding and graphic design.<br/><br/>
-  
   Experienced with :<br/>
   jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.
-  
   <br/>
-<!--   <ul>
-    <il>working on animation</il>
-    <il>working on digital collages</il>
-    <il>playing video games</il>
-    <il>watching anime</il>
-  <ul> -->
-  
 </p>
-
 <br/>
 <!-- develping in -->
 <details align="center">
@@ -40,8 +30,9 @@
   </p>
 </details>
 <p align="center">
-    <!--<br /><br />
-   <a href="#">Resume</a> | <a href="https://cat-lin-morgan.github.io/">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> | <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a>-->
+<!--   <a href="#">Resume</a> -->
+  <br /><br />
+  Check out my <a href="https://cat-lin-morgan.github.io/">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> to see my work || My <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a> if you'd like to hire me~
   <br /><br />
 <!--   🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷 -->
 </p>
