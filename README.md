@@ -16,12 +16,11 @@
   jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.
   <br/><br/>
   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽ 
-  <br/>
 </p>
 <!-- develping in -->
 <details align="center">
   <summary> <b> ɖɛʋɛʟօքɛʀ ֆȶǟȶֆ </b> </summary>
-  <br /><br />
+  <br />
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
@@ -30,7 +29,6 @@
 </details>
 <p align="center">
 <!--   <a href="#">Resume</a> -->
-  <br /><br />
   Check out my <a href="https://cat-lin-morgan.github.io/" target="_blank">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> to see my work || My <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/" target="_blank">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a> if you'd like to hire me~ || My <a href="https://www.instagram.com/cattongues.png/" target="_blank">𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒</a> to see my face
   <br />
 </p>
