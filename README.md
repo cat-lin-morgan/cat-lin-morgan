@@ -16,7 +16,7 @@
   Experienced with :<br/>
   jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.<br/>
   ════════ ⋆★⋆ ════════
-  <br/><br/><br/>
+  <br/><br/><br/><br/><br/>
   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽ 
 </p>
 <!-- develping in -->
