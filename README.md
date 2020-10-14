@@ -8,7 +8,26 @@
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
   <img src="https://img.shields.io/badge/I%20%20%F0%9F%92%97-CSS-ff69b4" alt="css badge" />
   <img src="https://img.shields.io/badge/HTML-is%20pretty%20OK-blueviolet" alt="HTML badge" />
+  <img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/zj0BxstyhGufC/giphy.gif" />
 </p>
+<p align="center">
+  Hi! My name is Cat!<br/>
+  I'm a 26 year old coder, designer, and animator.<br />
+  I really like coding and graphic design.<br/><br/>
+  
+  Experienced with :<br/>
+  jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.
+  
+  <br/>
+<!--   <ul>
+    <il>working on animation</il>
+    <il>working on digital collages</il>
+    <il>playing video games</il>
+    <il>watching anime</il>
+  <ul> -->
+  
+</p>
+
 <br/>
 <!-- develping in -->
 <details align="center">
@@ -18,10 +37,9 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue">
+  </p>
 </details>
 <p align="center">
-    Experienced with :<br/>
-    jQuery, Moment, Node.js, Bootstrap, Materlize, JSON, GIT, and Jest.
     <!--<br /><br />
    <a href="#">Resume</a> | <a href="https://cat-lin-morgan.github.io/">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> | <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a>-->
   <br /><br />
