@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
   <img src="https://img.shields.io/badge/I%20%20%F0%9F%92%97-CSS-ff69b4" alt="css badge" />
   <img src="https://img.shields.io/badge/HTML-is%20pretty%20OK-blueviolet" alt="HTML badge" />
-  <img align="right" width="450px" alt="GIF" src="https://media.giphy.com/media/zj0BxstyhGufC/giphy.gif" />
+  <img align="right" width="500px" alt="GIF" src="https://media.giphy.com/media/zj0BxstyhGufC/giphy.gif" />
 </p>
 <p align="center">
   ════════ ⋆★⋆ ════════ <br/>
@@ -14,6 +14,7 @@
   I'm a 26 year old coder, designer, and animator.<br /><br/>
   Experienced with :<br/>
   jQuery, Moment, Node.js, Express.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.<br/>
+  I am studying Javascript in school, and starting to learn Python and PHP in my free time!<br/>
   ════════ ⋆★⋆ ════════
   <br/><br/><br/><br/><br/>
   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚.
