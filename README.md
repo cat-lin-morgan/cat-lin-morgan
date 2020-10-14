@@ -12,7 +12,7 @@
   ════════ ⋆★⋆ ════════ <br/>
   Hi! My name is <b>Cat!</b><br/>
   I'm a 26 year old coder, designer, and animator.<br />
-  Currently, I really like coding and graphic design.
+  Currently, I really like coding and graphic design.<br/>
   Experienced with :<br/>
   jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.<br/>
   ════════ ⋆★⋆ ════════
