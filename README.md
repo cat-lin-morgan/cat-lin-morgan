@@ -15,19 +15,21 @@
   <summary> <b> ɖɛʋɛʟօքɛʀ ֆȶǟȶֆ </b> </summary>
   <br /><br />
   <p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=highcontrast&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=highcontrast">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue">
 </details>
 <p align="center">
-   Experienced with :<br/>
-   jQuery, Moment, Node.js, Bootstrap, Materlize, JSON, GIT, GITHUB(duh), and Jest.<br /><br />
+    Experienced with :<br/>
+    jQuery, Moment, Node.js, Bootstrap, Materlize, JSON, GIT, and Jest.
+    <!--<br /><br />
+   <a href="#">Resume</a> | <a href="https://cat-lin-morgan.github.io/">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> | <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a>-->
+  <br /><br />
   🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
-  </p>
- <p align="center"> 
+</p>
+<p align="center"> 
   <br/><br/>
   <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcomebanner2.gif" alt="Welcome banner">
   <br/><br/>
- </p>
 </p>
 
