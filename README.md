@@ -6,15 +6,17 @@
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
   <img src="https://img.shields.io/badge/I%20%20%F0%9F%92%97-CSS-ff69b4" alt="css badge" />
   <img src="https://img.shields.io/badge/HTML-is%20pretty%20OK-blueviolet" alt="HTML badge" />
-  <img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/zj0BxstyhGufC/giphy.gif" />
+  <img align="right" width="450px" alt="GIF" src="https://media.giphy.com/media/zj0BxstyhGufC/giphy.gif" />
 </p>
 <p align="center">
+  ════════ ⋆★⋆ ════════ <br/>
   Hi! My name is <b>Cat!</b><br/>
   I'm a 26 year old coder, designer, and animator.<br />
-  Currently, I really like coding and graphic design.<br/><br/>
+  Currently, I really like coding and graphic design.
   Experienced with :<br/>
-  jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.
-  <br/><br/>
+  jQuery, Moment, Node.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.<br/>
+  ════════ ⋆★⋆ ════════
+  <br/><br/><br/>
   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽ 
 </p>
 <!-- develping in -->
