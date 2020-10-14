@@ -10,11 +10,15 @@
 <!-- develping in -->
 <details align="center">
   <summary>Developer Skillsets</summary>
-  <p>Languages I write in:<br />
-  HTML, CSS, and Javascript.
-  <br/><br/><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact&theme=highcontrast'/><br/><br/>
-  Experienced with libraries, frameworks, and runtime environments such as:<br/>
-  jQuery, Moment, Node.js, Bootstrap, Materlize, JSON.
+  <br /><br />
+  <p align="center">Languages I write in:<br /><br />
+    <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
+    <img src="https://img.shields.io/badge/I%20%20%F0%9F%92%97-CSS-ff69b4" alt="css badge" />
+    <img src="https://img.shields.io/badge/HTML-is%20pretty%20OK-blueviolet" alt="HTML badge" />
+    <br/><br />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&layout=compact&theme=highcontrast'/><br/><br/>
+    Experienced with :<br/>
+    jQuery, Moment, Node.js, Bootstrap, Materlize, JSON, GIT, GITHUB(duh), and Jest.
   </p>
 </details>
 <br/>
