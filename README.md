@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/catheadbottombanner.gif" alt="This is the top banner and portrait of       Cat.">
   <br/><br/>
-  🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
+<!--   🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷 -->
   <br/><br/>
   𝕷𝖔𝖘 𝕬𝖓𝖌𝖊𝖑𝖊𝖘 | 𝕭𝖆𝖇𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 | 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝖜𝖎𝖙𝖍 𝕿𝖗𝖎𝖑𝖔𝖌𝖞<br /><br/>
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
@@ -25,7 +25,7 @@
     <!--<br /><br />
    <a href="#">Resume</a> | <a href="https://cat-lin-morgan.github.io/">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> | <a href="https://www.linkedin.com/in/caitlin-morgan-7818901b2/">𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a>-->
   <br /><br />
-  🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
+<!--   🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷 -->
 </p>
 <p align="center"> 
   <br/><br/>
