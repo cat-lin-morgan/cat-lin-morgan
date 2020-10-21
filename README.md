@@ -14,10 +14,10 @@
   I'm a 26 year old coder, designer, and animator.<br />
   Experienced with :<br/>
   jQuery, Moment, Node.js, Express.js, Bootstrap,<br />Materlize, JSON, GIT, and Jest.<br/>
-  I am studying Python and PHP in my free time!<br/>
+  <!-- I am studying Python and PHP in my free time!<br/> -->
   ════════ ⋆★⋆ ════════
   <br/><br/><br/><br/>
-  ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚.
+  <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
 </p>
 <!-- develping in -->
 <details align="center">
