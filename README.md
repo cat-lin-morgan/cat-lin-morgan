@@ -16,7 +16,7 @@
   Experienced with :<br/>
   Node.js, Express.j, JSON, GIT, SQL.<br/>
   <br/><br/>
-  I really like anime, video games, and fashion.
+  I really like anime, video games, and fashion.<br/>
   ════════ ⋆★⋆ ════════
   <br/><br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
