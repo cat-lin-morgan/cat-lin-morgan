@@ -14,8 +14,9 @@
   Hi! My name is <b>Cat!</b><br/>
   I'm a 26 year old coder, designer, and animator.<br />
   Experienced with :<br/>
-  jQuery, Moment, Node.js, Express.js, Bootstrap,<br />Materlize, JSON, GIT, SQL, and Jest.<br/>
-  <!-- Slowly loosing my mind.<br/> -->
+  Node.js, Express.j, JSON, GIT, SQL.<br/>
+  <br/><br/>
+  I really like anime, video games, and fashion.
   ════════ ⋆★⋆ ════════
   <br/><br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
