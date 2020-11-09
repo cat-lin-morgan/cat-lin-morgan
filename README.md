@@ -17,9 +17,8 @@
   Node.js, Express.j, JSON, GIT, SQL.<br/>
    . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/>
   I really like anime, video games, and fashion.<br/>
-  
   ════════ ⋆★⋆ ════════
-  <br/><br/><br/><br/>
+  <br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
 </p>
 <!-- develping in -->
