@@ -15,7 +15,7 @@
   I'm a 26 year old coder, designer, and animator.<br />
   Experienced with :<br/>
   Node.js, Express.j, JSON, GIT, SQL.<br/>
-   . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆
+   . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/>
   I really like anime, video games, and fashion.<br/>
   
   ════════ ⋆★⋆ ════════
