@@ -28,7 +28,7 @@
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue&hide=handlebars">
   </p>
 </details>
 <p align="center">
