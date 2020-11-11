@@ -16,8 +16,8 @@
   Experienced with :<br/>
   HTML, CSS, JavaScript, <br/>
   Node.js, Express.j, JSON, GIT, SQL.<br/>
-   . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/>
-  I really like anime, video games, and fashion.<br/>
+  <br/>
+  I really like anime, video games, fashion, and coding .<br/>
   ════════ ⋆★⋆ ════════
   <br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
@@ -26,11 +26,13 @@
 <details align="center">
   <summary> <b> ɖɛʋɛʟօքɛʀ ֆȶǟȶֆ </b> </summary>
   <br />
+  . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/><br/><br/>
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue&hide=handlebars">
   </p>
+ <br/>. ˚. ˚✽   ˚❀ ⋆｡˚❃
 </details>
 <p align="center">
 <!--   <a href="#">Resume</a> -->
