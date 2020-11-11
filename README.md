@@ -13,11 +13,11 @@
   ════════ ⋆★⋆ ════════ <br/>
   Hi! My name is <b>Cat!</b><br/>
   I'm a 26 year old coder, designer, and animator.<br />
+  I really like anime, video games, fashion, and coding.
+  <br/><br/>
   Experienced with :<br/>
   HTML, CSS, JavaScript, <br/>
   Node.js, Express.j, JSON, GIT, SQL.<br/>
-  <br/>
-  I really like anime, video games, fashion, and coding .<br/>
   ════════ ⋆★⋆ ════════
   <br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
