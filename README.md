@@ -26,7 +26,7 @@
 <details align="center">
   <summary> <b> ɖɛʋɛʟօքɛʀ ֆȶǟȶֆ </b> </summary>
   <br />
-  . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/><br/><br/>
+  . ˚✽ ❁⋆  ˚❀ ⋆✿ ๑❁⋆<br/><br/>
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
     <!--&hide=css,java,html-->
