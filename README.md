@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="javascript badge" />
   <img src="https://img.shields.io/badge/I%20%20%F0%9F%92%97-CSS-ff69b4" alt="css badge" />
   <img src="https://img.shields.io/badge/HTML-is%20pretty%20OK-blueviolet" alt="HTML badge" />
-  <img align="right" width="450px" alt="GIF" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/sleepy_princess.gif" />
+  <img align="right" width="450px" alt="GIF" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/sleepy_princess2.gif" />
   
 </p>
 <p align="center">
