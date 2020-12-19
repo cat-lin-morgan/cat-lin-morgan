@@ -3,7 +3,7 @@
   
   <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/welcome.gif" alt="Welcome banner" />
   <br/><br/>
-  𝕷𝖔𝖘 𝕬𝖓𝖌𝖊𝖑𝖊𝖘 || 𝕭𝖆𝖇𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 || 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝖜𝖎𝖙𝖍 𝕿𝖗𝖎𝖑𝖔𝖌𝖞<br /><br/>
+  𝕷𝖔𝖘 𝕬𝖓𝖌𝖊𝖑𝖊𝖘 || 𝕭𝖆𝖇𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 || 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙<br /><br/>
   <img src="https://img.shields.io/badge/We%20Stan-Javascript-brightgreen" alt="we stan javascript badge" />
   <img src="https://img.shields.io/badge/Sailor-CSS-ff69b4" alt="sailor css badge" />
   <img src="https://img.shields.io/badge/Node-Over%20Here-blueviolet" alt="node over here badge" />
@@ -16,9 +16,8 @@
   I'm a 26 year old coder, designer, and animator.<br />
   I really like anime, video games, fashion, and coding.<br/>
   I write mainly in Javascript.<br />
-  I have experience as a full stack developer.<br />
-  I am able to write in Node.js, as well as Express.<br />
-  I do not shy away from CSS.<br />
+  My experience is as a full stack developer.<br />
+  Frontend and Backend.<br />
   ════════ ⋆★⋆ ════════
   <br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
