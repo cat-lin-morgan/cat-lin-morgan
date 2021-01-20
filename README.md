@@ -15,8 +15,8 @@
   Hi! My name is <b>Cat!</b><br/>
   I'm a 26 year old coder, designer, and animator.<br />
   I really like anime, video games, fashion, and coding.<br/>
-  I write mainly in Javascript.<br />
-  I am a full stack developer.<br /><br />
+  I write mainly in Javascript.<br /><br />
+  I am a full stack developer. <br />
   ════════ ⋆★⋆ ════════
   <br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
