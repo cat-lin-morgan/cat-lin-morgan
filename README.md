@@ -12,11 +12,10 @@
 </p>
 <p align="center">
   ════════ ⋆★⋆ ════════ <br/>
-  Hi! My name is <b>Cat!</b><br/>
+  Hi! My name is <b>Cat!</b><br/><br />
   I'm a 26 year old coder, designer, and animator.<br />
-  I really like anime, video games, fashion, and coding.<br/>
-  I write mainly in Javascript.<br /><br />
-  I am a full stack developer. <br />
+  I really like anime, video games, fashion, and coding.<br/><br/>
+  I am a full stack developer that loves CSS. <br />
   ════════ ⋆★⋆ ════════
   <br/><br/><br/>
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
