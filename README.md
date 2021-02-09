@@ -13,7 +13,7 @@
 <p align="center">
   ════════ ⋆★⋆ ════════ <br/>
   Hi! My name is <b>Cat!</b><br/><br />
-  I'm a 26 year old coder, designer, and animator.<br />
+  I'm a 27 year old coder, designer, and animator.<br />
   In my free time you'll find me playing video games or watching anime.<br/><br/>
   I am a full stack developer that loves CSS. <br />
   ════════ ⋆★⋆ ════════
