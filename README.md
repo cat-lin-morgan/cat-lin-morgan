@@ -21,7 +21,7 @@
   <!-- ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊ . ˚. ˚✽   ˚❀ ⋆｡˚❃ ┊ ✾ ⋆┊✿ ๑❁⋆ ┊  ˚✽ ❀ ˚. -->
 </p>
 <p align="center">
-  Check out my <a href="https://cat-lin-morgan.github.io/" target="_blank">𝕻𝖔𝖗𝖙𝖋𝖔𝖑𝖎𝖔</a> to see my work || My <a href="https://docs.google.com/document/d/1eKAn-SU2icRyQUZxu1-DpuB98VYzL30-18b8NL6ciOk/edit?usp=sharing" target="_blank">𝕽𝖊𝖘𝖚𝖒𝖊</a> &&& <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'>𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a> if you'd like to hire me~ || My <a href="https://www.instagram.com/cattongues.png/" target="_blank">𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒</a> to see my face
+  My <a href="https://docs.google.com/document/d/1eKAn-SU2icRyQUZxu1-DpuB98VYzL30-18b8NL6ciOk/edit?usp=sharing" target="_blank">𝕽𝖊𝖘𝖚𝖒𝖊</a> &&& <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'>𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓</a> if you'd like to hire me~ || My <a href="https://www.instagram.com/cattongues.png/" target="_blank">𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒</a> to see my face
   <br />
 </p>
 
