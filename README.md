@@ -10,7 +10,7 @@
   <summary align="center"> <b> ༺☆༻ ༺ ˖࣪  ∗ ਏਓ ∗  ˖࣪ ༻ </b> </summary>
   <br />
   <p align="center">
-    <samp> Hi! I'm Cat!
+    Hi! I'm Cat!
     <br />
     I'm a full stack developer that loves CSS.
     <br />
@@ -20,9 +20,7 @@
     <br/><br/>
     My <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'>LinkedIn</a> if you'd like to connect~ && My <a     href="https://www.instagram.com/cattongues.png/" target="_blank">Instagram</a> to see my face!
     <br />
-     </samp>
    
-    
   </p>
 </details>
 
