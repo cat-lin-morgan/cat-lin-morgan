@@ -10,9 +10,7 @@
   <summary align="center"> <b> ༺☆༻ ༺ ˖࣪  ∗ ਏਓ ∗  ˖࣪ ༻ </b> </summary>
   <br />
   <p align="center">
-    Hi! I'm Cat!
-    <br />
-    I'm a full stack developer that loves CSS.
+    Hi! I'm Cat! I'm a full stack developer that loves CSS.
     <br />
     In my free time you'll find me playing video games or watching anime.
     <br/> <br/>
