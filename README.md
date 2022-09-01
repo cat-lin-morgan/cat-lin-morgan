@@ -1,5 +1,5 @@
 <details align="center">
-  <summary align="center">  <img align="center" src="https://raw.githubusercontent.com/cat-lin-morgan/cat-lin-morgan/master/assets/tumblr_733112139c4aa6676702a453d9af3b38_2d872c74_640.gif" alt="Welcome banner" /> </summary>
+  <summary align="center"> ★彡 </summary>
   <br />
   <p align="center">
     Hi, I'm Cat. I'm a full stack developer that loves CSS.
