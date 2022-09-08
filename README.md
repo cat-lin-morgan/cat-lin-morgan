@@ -5,10 +5,8 @@
     Hi, I'm Cat. I'm a full stack developer that loves CSS.
     <br />
     In my free time you'll find me playing video games or watching anime.
-    <br/> <br/>
-    ════════ ⋆★⋆ ════════
     <br/><br/>
-    My <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'> ℓιηкє∂ιη </a> if you'd like to connect~ && My <a     href="https://www.instagram.com/cattongues.png/" target="_blank"> ιηѕтαgяαм </a> to see my face!
+    My <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'> ℓιηкє∂ιη </a> if you'd like to connect~ 
     <br />
    
   </p>
