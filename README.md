@@ -1,3 +1,11 @@
+
+
+     (\__/)
+    ( • . •)
+    / >★彡 here take this, it's danerous to go alone
+    
+ <br />
+
 <details align="center">
   <summary align="center"> ★彡 </summary>
   <br />
@@ -11,21 +19,6 @@
    
   </p>
 </details>
-<br/>
-
-     (\__/)
-    ( • . •)
-    / >★彡 here take this, it's danerous to go alone
-    
- 
-
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=cat-lin-morgan&show_icons=true&theme=buefy&line_height=27">
-<!--&hide=css,java,html-->
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cat-lin-morgan&theme=vue&hide=handlebars,objective-c,java,ruby,starlark"> -->
-
-
-<!-- <samp>fighting for love and justice</samp> -->
-<!--  <kbd>follow me on ig</kbd></a> -->
 
 
 
