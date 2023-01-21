@@ -14,7 +14,7 @@
     <br />
     In my free time you'll find me playing video games or watching anime.
     <br/><br/>
-    My <a href='https://www.linkedin.com/in/caitlin-morgan-7818901b2/'> ℓιηкє∂ιη </a> if you'd like to connect~ 
+    My <a href='https://www.linkedin.com/in/cat-morgan-7818901b2/'> ℓιηкє∂ιη </a> if you'd like to connect~ 
     <br />
    
   </p>
