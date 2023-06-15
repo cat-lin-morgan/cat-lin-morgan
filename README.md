@@ -2,7 +2,7 @@
 
      (\__/)
     ( • . •)
-    / >★彡 here take this, it's danerous to go alone
+    / >★彡 here take this, it's dangerous to go alone
     
  <br />
 
